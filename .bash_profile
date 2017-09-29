@@ -35,7 +35,7 @@ function prompt {
 prompt
 
 # Go Stuff
-xport GOROOT="/usr/local/go"
+export GOROOT="/usr/local/go"
 export GOPATH="~/Documents/Projects/go/"
 
 # Setting PATH for Python 3.4
